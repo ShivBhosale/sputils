@@ -57,7 +57,7 @@ This is the image used as reference for drawing the data
 
 
 ## 3. Sketch Layer
-This is the image that was exported after drawing (p.s forgie this garbage trace)
+This is the image that was exported after drawing (p.s forgive me for this garbage trace)
 
 ![alt text](<data/superpaper/Layer_1 (2).png>)
 
