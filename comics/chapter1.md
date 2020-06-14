@@ -15,3 +15,4 @@ Zumfay goes to work, uses his bike for commute. Parks in office.
 
 Takes a lift for his floor, with his headphones on. Zumfay is always listening, always thinking.
 
+![alt text](<data/Layer_1 (2).png>) 
