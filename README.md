@@ -1,6 +1,8 @@
 # Superpaper Utils
 Utils and Notebooks for building deep-learing models with data-generated from [superpaper web-app](https://superpaper.netlify.app/).
 
+P.S: Most images in dataset are gonna be low in quality as thats how good my art-skills are
+
 # Data
 
 The stroke-data is exported as a json file. Use the ExploreStrokes.ipynb notebook to use utils for exploring data.
@@ -21,7 +23,7 @@ Currently, a single data-point comprises on 3 elements:
 		"layer": "<str:Layer name>",
 		"type": "<str:mouseup or penup>",
 		"memento": [
-			[<int:x_xcor>, <int:y-cor>, <int:offset-x>, <int:offset-y>],
+			[<int:x-xcor>, <int:y-cor>, <int:offset-x>, <int:offset-y>],
 			[809, 124, -310, -10],
             .
             .
@@ -65,4 +67,4 @@ This is the image that was exported after drawing (p.s forgive me for this garba
 
 # TODO
 - [ ] Add Sketch-RNN wrapper
-- [ ] Create sectio for comic
+- [X] Create section for comic
